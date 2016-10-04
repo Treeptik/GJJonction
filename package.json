@@ -1,0 +1,23 @@
+{
+  "name": "gjjonction",
+  "version": "1.0.0",
+  "description": "Allow switch issues between Jira & Github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GuiGui & JB",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.1.1",
+    "vue": "^2.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.17.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-watch": "^4.3.10"
+  }
+}
